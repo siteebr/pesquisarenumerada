@@ -260,7 +260,7 @@ function setupRegistrationPage() {
 // Setup event listeners for video page
 function setupVideoPage() {
   document.querySelector('.unlock-btn').addEventListener('click', () => {
-    window.location.href = 'https://compraseguraonline.org.ua/c/abfd6044e6';
+    window.location.href = 'https://compraseguraonline.org.ua/c/3496c41fcf';
   });
 
 }
